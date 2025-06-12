@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: pd8k6dbwh-nodejs-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/pd8k6dbwh-nodejs
